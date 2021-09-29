@@ -15,7 +15,7 @@ Para celebrar o fim de uma longa série de disputas o imperador Japonês recebeu
 * Organize os segmentos de bambu, as fichas de melhoria e as calhas de irrigação em local acessível aos jogadores.
 
 ### TURNO
-ESCOLHA DUAS AÇÕES DISTINTAS ENTRE AS 5
+Execute duas ações distintas (das cinco disponíveis):
 1. **Mova o jardineiro** em linha reta passando por quantos terrenos desejar. Se o jardineiro parar em terreno irrigado nasce um segmento de bambu nele e em todos da mesma cor que estejam adjacentes e irrigados, caso o terreno não esteja irrigado nascerá bambu nos tiles adjacentes que estejam irrigados independente da cor. A altura máxima, são 4 segmentos de bambu.
 1. **Adquira um objetivo**, de qualquer tipo (panda, jardineiro ou terreno), máximo de 5 na mão.
 1. **Mova o panda em** linha reta em por quantos terrenos desejar: Caso o panda pare em terreno que tenha brotos de bambu, ele comerá um segmento caso não haja no terro a melhoria de cercado.
