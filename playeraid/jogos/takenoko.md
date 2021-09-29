@@ -1,9 +1,9 @@
 # TAKENOKO
 
 ## INFORMAÇÕES
-* **N° de jogadores:** 2 a 4;
-* **Tempo:** 45;
-* **NAutor:** Antoine Bauza;
+* **N° de jogadores:** 2 a 4
+* **Tempo:** 45
+* **Autor:** Antoine Bauza
 
 ### CONTEXTO
 Para celebrar o fim de uma longa série de disputas o imperador Japonês recebeu de seu congênere do Japão, um panda gigante, símbolo da paz. O imperador Japonês delegou a seus súditos (vocês) a difícil tarefa de organizar o bambuzal para cuidar do animal. Vocês deverão preparar os terrenos, irrigá-los e cultivar uma das três espécies de bambu (Verde, Amarelo e Rosa) com a ajuda do jardineiro imperial. Vocês terão de lidar com o apetite voraz do animal sagrado por bambus macios e suculentos...  Vencerá o jogador que cultivar mais bambus e preparar os terrenos com mais eficiência, sem se esquecer de alimentar o pobrezinho do panda.
