@@ -23,7 +23,7 @@ Execute duas ações distintas (das cinco disponíveis):
 1. **Adquira uma calha de irrigação** e use-a quando desejar a qualquer momento no seu turno.
 
 ### DADO DO TEMPO
-A partir da segunda rodada, role o dado, determine a condições climática e realize a ação de acordo:
+A partir da segunda rodada, role o dado, determine a condição climática e realize a ação de acordo:
 * **Nuvem:** Adquira uma melhora e use-a quando desejar a qualquer momento no seu turno;
 * **Chuva:** Escolha um terreno irrigado para que nele seja colocado um segmento de bambu;
 * **Vento:** No seu turno você poderá fazer duas ações iguais;
@@ -39,3 +39,38 @@ Não é possível posicionar uma melhoria em um terreno que já tenha uma melhor
 
 ### FIM DE JOGO
 A última rodada ocorre quando em seu turno um dos jogadores completar pelo menos **sete (4 jogadores), oito (3 jogadores) ou nove objetivos (2 jogadores)**. Nessa ocasião esse jogador receberá a visita do imperador e ganhará mais dois pontos. A rodada é finalizada de modo que cada jogador tenha a mesma quantidade de turnos. Ao final, é declarado vencedor aquele com a maior pontuação.
+
+
+
+
+# SPLENDOR
+
+## INFORMAÇÕES
+* **N° de jogadores:** 2 a 4
+* **Tempo:** 30
+* **Autor:** Marc André
+
+### CONTEXTO
+Em Splendor, você assume o papel de um comerciante rico durante a Renascença. Durante a partida, os jogadores acumulam fichas de pedras preciosas e de ouro. Com essas fichas, eles adquirem cartas de desenvolvimento que valem pontos de prestígio e/ou bônus. Esses bônus permitem que os jogadores comprem as próximas cartas de desenvolvimento pagando menos. Quando um jogador tiver bônus suficientes, ele imediatamente recebe a visita de um nobre. Assim que um jogador chegar a 15 pontos de prestígio, a rodada é jogada até o final e o jogador com o maior número de pontos de prestígio é declarado vencedor.
+
+### PREPARAÇÃO
+* Embaralhe todas as CARTAS, organize-as por cor em 3 pilhas (amarelo, azul e verde), revele 4 cartas de cada pilha.
+* Embaralhe os CARTÕES DE NOBRE e revele uma quantidade igual ao número de jogadores mais um, os demais não serão utilizados nessa partida.
+* Empilhe as FICHAS de pedras preciosas, 4 unidades de cada tipo para 2 jogadores, 5 para 3 jogadores, 7 para 4 jogadores.
+* Sempre serão utilizadas todas as 5 fichas de OURO.
+
+### TURNO
+1. Adquirir fichas
+    * Adquirir 3 fichas de pedras de cores diferentes, caso ultrapasse 10 fichas no fim do turno se desfaz das demais.
+    * Adquirir 2 fichas da mesma cor, apenas de pilhas com mais de 3 fichas.
+1. Reservar uma carta na sua mão e adquirir uma ficha de ouro, o máximo de cartas na mão é 3.
+1. Trazer uma carta para sua área de jogo, da sua mão ou das cartas expostas, pagando seu preço em fichas.adjacentes a fonte já estarão irrigados.
+
+### REINVIDICAR UM NOBRE
+* Caso atenda os requisitos, ao final de seu turno poderá receber a visita de APENAS um nobre a sua escolha.
+* NÃO CONTA COMO AÇÃO
+
+### FIM DE JOGO
+* Quando um jogador alcançar **15 PONTOS** de prestígio, a rodada é finalizada de modo que cada jogador tenha a mesma quantidade de turnos.
+* Ao final, é declarado VENCEDOR aquele com a maior pontuação.
+* Em caso de **EMPATE**, vence o jogador com o menor número de cartas de desenvolvimento.
