@@ -63,14 +63,81 @@ Em Splendor, você assume o papel de um comerciante rico durante a Renascença. 
 1. Adquirir fichas
     * Adquirir 3 fichas de pedras de cores diferentes, caso ultrapasse 10 fichas no fim do turno se desfaz das demais.
     * Adquirir 2 fichas da mesma cor, apenas de pilhas com mais de 3 fichas.
-1. Reservar uma carta na sua mão e adquirir uma ficha de ouro, o máximo de cartas na mão é 3.
-1. Trazer uma carta para sua área de jogo, da sua mão ou das cartas expostas, pagando seu preço em fichas.adjacentes a fonte já estarão irrigados.
+1. Reservar uma carta trazendo-a mão e adquirir uma ficha de ouro, o máximo de cartas na mão é 3.
+1. Trazer uma carta para sua área de jogo, da sua mão ou das cartas expostas, pagando seu preço em fichas;
 
 ### REINVIDICAR UM NOBRE
-* Caso atenda os requisitos, ao final de seu turno poderá receber a visita de APENAS um nobre a sua escolha.
+* Caso atenda aos requisitos, ao final de seu turno poderá receber a visita de APENAS um nobre a sua escolha.
 * NÃO CONTA COMO AÇÃO
 
 ### FIM DE JOGO
 * Quando um jogador alcançar **15 PONTOS** de prestígio, a rodada é finalizada de modo que cada jogador tenha a mesma quantidade de turnos.
 * Ao final, é declarado VENCEDOR aquele com a maior pontuação.
 * Em caso de **EMPATE**, vence o jogador com o menor número de cartas de desenvolvimento.
+
+
+
+
+
+
+# HADARA
+
+## INFORMAÇÕES
+* **N° de jogadores:** 2 a 4
+* **Tempo:** 60
+* **Autor:** Antoine Bauza
+
+### CONTEXTO
+Hadara transporta-o a um mundo onde coexistem várias das culturas e nações que existem no nosso planeta. Um mundo que deverá povoar com pessoas de diferentes etnias, continentes e até mesmo períodos históricos, para que, no decorrer de três épocas, a sua pequena tribo se transforme numa grande civilização.
+Mas para alcançar a honra e glória, terá que escolher cuidadosamente as personagens e avanços que irá manter. Além disso, não poderá desleixar a agricultura, a cultura e o poder militar, sob pena de os seus rivais o deixarem para trás.
+
+
+### PREPARAÇÃO
+* Monte o tabuleiro com as suas 5 partes
+* Coloque 2 cartas por jogador, viradas para baixo, nos espaços da cor correspondente no tabuleiro. 
+* Separe as 25 regiões, em cinco pilhas de acordo com junto ao brasão vermelho (3,915,21,30), embaralhe cada pilha;
+* Entregue a cada jogador (1 ajuda, 8 fichas de bonificação, 2 selos dourados, 4 contadores)
+* Sorteie e distribua as cartas iniciais de jogadores fornecendo as moedas e colocando os contadores nos valores informados na carta.
+
+
+### DINÂMICA
+O jogo se dá ao longo de 3 eras, o jogador que iniciará cada era será definido de forma sequencial a partir do menor número de iniciativa.
+Cada era será divindade em duas fases:
+* **Fase A**
+    * Distribuição de cartas conforme brasão, Renda, Ocupar Regiões e Esculpir Busto.
+* **Fase B**
+    * Escolha livre de cartas, Renda, Ocupar Regiões, Esculpir Busto, Alimentar população, Comprar selos.
+
+### FASE A
+1. DISTRIBUIÇÃO DE CARTAS
+    * O jogador inicial da era gira a roda para deixar seu escudo na pilha de cartas que desejar.
+    * Todos os jogadores tiram duas cartas da pilha em frente ao seu escudo.
+    * Depois cada jogador escolhe uma carta para descartar virada para cima para compra posterior.
+    * Decide se irá ficar com a segunda carta pagando seu custo em moedas e recebendo sua Bonificação na trila ou se irá vende-la e ganhar 2,3 ou 4 moedas de acordo com a era vigente.
+    * Isso se repete até que todos os jogadores tenham comprado de todas as pilhas. 
+1. ETAPAS DE BONIFICAÇÃO
+    1. Renda: O jogador recebe o número de moedas indicado na trilha amarela
+    1. Ocupar Região: Se o jogador tiver um nível suficiente na trilha militar (vermelha) pode ocupar uma região (apenas uma por vez) e escolhe se vai ganhar as moedas ou pagar o custo da carta para virá-la e ganhar a bonificação. Desde que cumpra o requisito o jogador pode ocupar regiões na ordem que preferir, mas poderá ter somente uma de cada nível (3,9,15,21,30)
+    1. Esculpir Bustos: Caso tenha o requisito na trilha de cultura (azul) poderá esculpir um busto colocando um marcador de bonificação para andar trilhas ou virá-lo e ganhar pontos de vitória (2,3,4 ou 6)
+
+### FASE B
+1. SELEÇÃO DE CARTAS
+    * Nesta fase começando pelo jogador inicial da fase e depois seguindo em sentido horário, cada jogador escolhe a carta superior de uma das pilhas com cartas viradas para cima e decide se fica com ela ou se irá vende-la.
+1. Finalizadas as cartas proceda com os passos de renda, ocupar região e esculpir busto.
+1. ETAPAS DE TRANSAÇÕES
+    1. Alimentar a população: verifique se seu nível de comida (trilha verde) é menor que o número de cartas que você tem, caso seja terá que se desfazer delas para igualar os dois valores. Ao se desfazer de uma carte reduza da trilha as bonificações que a carta havia fornecido.
+    1. Comprar selos prateados (pts em função de recursos) ou dourados (pts por conjunto de cartas), observe o custo de cada selo no cartão de ajuda
+
+Finalizada a fase B, inicia-se uma nova era e todo processo se repete até o fim da terceira era.
+
+
+### FIM DE JOGO
+* Ao final da fase B da terceira era o jogo termina.
+* Rendem pontos
+    * **Regiões ocupadas:** Some a pontuação indicada no canto inferior direito de cada região;
+    * **Bustos esculpidos:** Some a pontuação indicada em cada busto;
+    * **Selos prateados:** a metade do nível escolhido em pontos;
+    * **Selos dourados:** 7 pts por cada conjunto de 5 cartas de cores diferentes;
+    * **Cartas:** Some a pontuação indicada no canto inferior direito de cada carta;
+    * **Dinheiro:** 1 ponto a cada 5 moedas.
+* Em caso de **EMPATE** o jogador com mais moedas é o vencedor. Se o empate persistir os jogadores dividem a vitória..
