@@ -1,6 +1,7 @@
 # JOGOS
-1. 
-1. 
+1. [Takenoko](#TAKENOKO)
+1. [Splendor](#SPLENDOR)
+1. [Hadara](#HADARA)
 
 
 
