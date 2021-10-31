@@ -2,7 +2,8 @@
 1. [Takenoko](#TAKENOKO)
 1. [Splendor](#SPLENDOR)
 1. [Hadara](#HADARA)
-
+1. [Oh My Goods!](#oh-my-goods)
+1. [Noctiluca](#noctiluca)
 
 
 
