@@ -148,4 +148,128 @@ Finalizada a fase B, inicia-se uma nova era e todo processo se repete até o fim
     * **Selos dourados:** 7 pts por cada conjunto de 5 cartas de cores diferentes;
     * **Cartas:** Some a pontuação indicada no canto inferior direito de cada carta;
     * **Dinheiro:** 1 ponto a cada 5 moedas.
-* Em caso de **EMPATE** o jogador com mais moedas é o vencedor. Se o empate persistir os jogadores dividem a vitória..
+* Em caso de **EMPATE** o jogador com mais moedas é o vencedor. Se o empate persistir os jogadores dividem a vitória.
+
+
+
+
+
+# OH MY GOODS! 
+
+## INFORMAÇÕES
+* **N° de jogadores:** 2 a 4
+* **Tempo:** 30
+* **Autor:** Alexander Pfister
+
+### CONTEXTO
+Em Oh My Goods!, assuma o papel de um trabalhador na produção de bens como barris, ferro, tijolos, vidro, alimentos, roupas e outros, decidindo o que, quando e como produzir. À medida que sua produção aumenta, maximize a utilização dos recursos através das cadeias de produção. Aquele que melhor planejar e executar sua produção ganhará mais pontos de vitória e vencerá a partida.
+
+
+### PREPARAÇÃO
+* Distribua uma carvoaria (fundo e azul), 1 trabalhador (dupla face com fundo marrom), 5 cartas de estabelecimento e 7 cartas para serem usadas como mercadorias (sobre a carvoaria) de forma aleatória para cada jogador.
+* Sorteie as cartas de assistente em quantidade equivalente ao dobro do número de jogadores e as coloque na mesa definindo aleatoriamente qual lado será utilizado na partida.
+* O jogador que mais recentemente tiver trabalhado duro em alguma tarefa (ou um jogador sorteado) será o primeiro jogador.
+
+
+
+### ANDAMENTO DO TURNO
+O turno é dividido em 4 fases:
+
+FASE 1 - NOVA MÃO DE CARTAS
+Os jogadores escolhem se querem trocar TODAS as cartas da sua mão por cartas fechadas do topo da pilha, depois disso cada jogador recebe mais duas cartas, não há limite de cartas na mão.
+
+FASE 2 – NASCER DO SOL
+1. Revelam-se cartas do topo da pilha até que apareçam dois meios sóis, o sol nasce e o mercado abre.
+1. Os jogadores escolhem simultaneamente a fábrica onde seu trabalhador será alocado e se ele estará atento (produz dois bens, precisa de todos os recursos) ou distraído (produz apenas um bem, mas pode fazê-lo com uma unidade de recurso a menos).
+1. Os jogadores decidem se irão mover seu(s) ajudante(s) caso tenham algum a um custo de duas moedas.
+Por fim, optam por reservar uma carta sobre a mesa para tentar construi-la na fase 4.
+
+FASE 3 – PÔR DO SOL
+Revelam-se cartas do topo da pilha até que apareçam dois meios sóis, o sol se põe e o mercado fecha.
+
+
+FASE 3 – PRODUZIR E CONSTRUIR
+Começando pelo jogador inicial, todos realizam as sequencialmente as seguintes ações:
+1. produzir bens manufaturados (caso se tenha os recursos necessários disponíveis no mercado ou na mão do jogador)
+1. ativar a cadeia de produção (caso queria se desfazer de cartas da sua mão ou de um bem manufaturado para tal)
+1. construir uma nova fábrica OU contratar um assistente alocando-o imediatamente em uma fábrica.
+
+
+
+
+### LEMBRETES
+Estabelecimentos não construídos voltam para sua mão.
+Não se pode construir e contratar um trabalhador no mesmo turno.
+Quando a pilha de compras acabar, embaralhe a pilha de descarte para formar uma nova pilha. 
+Se ambas as pilhas acabarem, todos os jogadores descartam metade das cartas das mãos (e arredondando para baixo) para formar a pilha.
+
+
+### A CARTA
+Uma carta tem em oh my goods tem diversas informações/funções:
+* Parte superior: custo e pontos de vitória
+* Parte do meio: recurso e meio sol
+* Parte inferior: recursos necessários para produção, bem manufaturado produzido com seu respectivo valor e item insumo da cadeira de produção
+
+### FIM DE JOGO:
+O final da partida é disparado quando algum jogador tiver 8 estabelecimentos à sua frente (incluindo a Carvoaria).
+Quando isso acontecer, termine a rodada atual e jogue mais uma rodada completa. Nesta rodada final, cada jogador pode usar as cadeias de produção de todos os seus respectivos estabelecimentos, incluindo aqueles sem trabalhador ou assistente e os estabelecimentos que não produziram nada
+
+
+### PONTUAÇÃO
+Rendem pontos
+* Pontos concedidos pelos estabelecimentos;
+* Pontos concedidos pelos assistentes;
+* Bens remanescentes nos estabelecimentos são convertidos em pontos de vitória ao custo de 5 moedas por ponto
+
+Em caso de **EMPATE** o jogador com mais moedas restantes (após converter os bens em pontos) vence.
+
+
+# NOCTILUCA
+
+## INFORMAÇÕES
+* **N° de jogadores:** 1 a 4
+* **Tempo:** 30
+* **Autor:** Shem Phillips
+
+### CONTEXTO
+Em Noctiluca, os jogadores se revezam em mergulhos para recolher dados noctilucas do tabuleiro e mantê-los seguros nos potes. O jogo acontece em duas rodadas, depois das quais os jogadores somam seus pontos e comparam os resultados para determinar o vencedor.
+
+
+### PREPARAÇÃO
+* Distribua aleatoriamente 5 dados nas seções mais externas do tabuleiro e 4 dados nas seções mais internas.
+* Divida os 12 peões igualmente entre os jogadores.
+* Separe as fichas de ponto por cor, ordene-as de forma decrescente deixando a ficha de número 8 na base de pilha e a de número 2 mais acima.
+* Embaralhe as cartas de Noctiluca favorita e distribua uma para cada jogador, essa informação é privada e cada noctiluca daquele tipo renderá 1 ponto no fim do jogo.
+* Embaralhe as cartas de pote e distribua 3 para cada jogador que deve escolher 2, depois que todos escolherem, as cartas são reveladas simultaneamente.
+* Aquelas que não foram escolhidas, voltam para pilha que deve ser reembaralhada e dividida em 4 montes de igual tamanho.
+* O jogador mais novo é o primeiro a jogar e pega o marcador de primeiro jogador deixando-o com o número “1” virado para cima.
+
+
+
+### ANDAMENTO DO TURNO
+1. O jogador posiciona seu peão na borda tabuleiro (margem), escolhe um dos dois caminhos e um número, depois traça uma linha reta neste caminho e recolhe todos os dados do número escolhido independente da cor.
+1. O jogador posiciona os dados recolhidos em seus potes de noctiluca de acordo com a cor correspondente, caso existam dados que não possam ser acomodados ele os passará para o próximo jogador que deve posicionar apenas um em seus potes e repassar os demais. A distribuição segue até que todos os dados sejam acomodados, aqueles que não puderem ser posicionados por nenhum jogador, devem ser devolvidos para caixa.
+1. Depois começando pelo jogador inicial começa a entrega de potes, pegue uma ficha de pontuação na cor do pote correspondente, devolva os dados alocados no pote para caixa, e vire a carta de pote e deixe ela a sua frente. Esta etapa se segue até que todos entreguem os potes que foram completados.
+
+
+### FINAL DA RODADA
+1. Quando os jogadores utilizarem todos os seus peões a rodada termina e prepara-se a 2ª rodada.
+1. Cada jogador recolhe seus peões do tabuleiro.
+1. Remova todos os dados do tabuleiro e os distribua novamente, caso não tenham dados suficientes utilize a distribuição mais equitativa possível.
+1. Vire o marcador de primeiro jogador para o lado 2 (marcando a 2ª rodada) e entregue-o para aquele que posicionou o último peão, ele será o primeiro a posicionar seu peão e a rodada segue em sentido anti-horário.
+
+
+### FIM DE JOGO
+Depois da segunda rodada o jogo termina.
+
+#### MAIORIA
+* Maiorias: veja qual o jogador com mais fichas de cada uma das três cores das fichas de ponto (o número de fichas, não o valor total). O jogador que tiver o maior número vira as demais fichas dessa cor para o lado que mostra um ponto e pega essas fichas.
+* Se houver empate quanto à maioria, divida as fichas restantes de maneira igual entre os jogadores empatados, colocando-os virados para baixo e descartando as fichas restantes
+
+Rendem pontos
+* Fichas de ponto: conte as adquiridas durante a partida (pontos indicados na ficha) e ao final dela por maioria (apenas um ponto por ficha).
+* Bônus de pote: número mostrados na parte superior direita da carta.
+* Noctiluca favorita: conte um ponto por noctiluca favorita presente nas cartas de pote.
+* Dados: um ponto a cada dois dados nos potes não entregues.
+
+Se houver **EMPATE**, aquele que entregou mais potes vence. Se ainda assim o empate persiste, os jogadores empatados dividem a vitória.
