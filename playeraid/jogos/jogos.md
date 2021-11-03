@@ -235,7 +235,6 @@ Em caso de **EMPATE** o jogador com mais moedas restantes (após converter os be
 ### CONTEXTO
 Em Noctiluca, os jogadores se revezam em mergulhos para recolher dados noctilucas do tabuleiro e mantê-los seguros nos potes. O jogo acontece em duas rodadas, depois das quais os jogadores somam seus pontos e comparam os resultados para determinar o vencedor.
 
-
 ### PREPARAÇÃO
 * Distribua aleatoriamente 5 dados nas seções mais externas do tabuleiro e 4 dados nas seções mais internas.
 * Divida os 12 peões igualmente entre os jogadores.
@@ -245,13 +244,10 @@ Em Noctiluca, os jogadores se revezam em mergulhos para recolher dados noctiluca
 * Aquelas que não foram escolhidas, voltam para pilha que deve ser reembaralhada e dividida em 4 montes de igual tamanho.
 * O jogador mais novo é o primeiro a jogar e pega o marcador de primeiro jogador deixando-o com o número “1” virado para cima.
 
-
-
 ### ANDAMENTO DO TURNO
 1. O jogador posiciona seu peão na borda tabuleiro (margem), escolhe um dos dois caminhos e um número, depois traça uma linha reta neste caminho e recolhe todos os dados do número escolhido independente da cor.
 1. O jogador posiciona os dados recolhidos em seus potes de noctiluca de acordo com a cor correspondente, caso existam dados que não possam ser acomodados ele os passará para o próximo jogador que deve posicionar apenas um em seus potes e repassar os demais. A distribuição segue até que todos os dados sejam acomodados, aqueles que não puderem ser posicionados por nenhum jogador, devem ser devolvidos para caixa.
 1. Depois começando pelo jogador inicial começa a entrega de potes, pegue uma ficha de pontuação na cor do pote correspondente, devolva os dados alocados no pote para caixa, e vire a carta de pote e deixe ela a sua frente. Esta etapa se segue até que todos entreguem os potes que foram completados.
-
 
 ### FINAL DA RODADA
 1. Quando os jogadores utilizarem todos os seus peões a rodada termina e prepara-se a 2ª rodada.
@@ -259,18 +255,18 @@ Em Noctiluca, os jogadores se revezam em mergulhos para recolher dados noctiluca
 1. Remova todos os dados do tabuleiro e os distribua novamente, caso não tenham dados suficientes utilize a distribuição mais equitativa possível.
 1. Vire o marcador de primeiro jogador para o lado 2 (marcando a 2ª rodada) e entregue-o para aquele que posicionou o último peão, ele será o primeiro a posicionar seu peão e a rodada segue em sentido anti-horário.
 
-
 ### FIM DE JOGO
 Depois da segunda rodada o jogo termina.
 
 #### MAIORIA
-* Maiorias: veja qual o jogador com mais fichas de cada uma das três cores das fichas de ponto (o número de fichas, não o valor total). O jogador que tiver o maior número vira as demais fichas dessa cor para o lado que mostra um ponto e pega essas fichas.
-* Se houver empate quanto à maioria, divida as fichas restantes de maneira igual entre os jogadores empatados, colocando-os virados para baixo e descartando as fichas restantes
+* Veja qual o jogador com mais fichas de cada uma das três cores das fichas de ponto (o número de fichas, não o valor total). O jogador que tiver o maior número vira as demais fichas dessa cor para o lado que mostra um ponto e pega essas fichas.
+* Se houver empate quanto à maioria, divida as fichas restantes de maneira igual entre os jogadores empatados, colocando-os virados para baixo e descartando as fichas restantes.
 
+### PONTUAÇÃO
 Rendem pontos
-* Fichas de ponto: conte as adquiridas durante a partida (pontos indicados na ficha) e ao final dela por maioria (apenas um ponto por ficha).
-* Bônus de pote: número mostrados na parte superior direita da carta.
-* Noctiluca favorita: conte um ponto por noctiluca favorita presente nas cartas de pote.
-* Dados: um ponto a cada dois dados nos potes não entregues.
+* **Fichas de ponto:** conte as adquiridas durante a partida (pontos indicados na ficha) e ao final dela por maioria (apenas um ponto por ficha).
+* **Bônus dos potes:** número mostrados na parte superior direita da carta.
+* **Noctiluca favorita:** conte um ponto por noctiluca favorita presente nas cartas de pote.
+* **Dados restantes:** um ponto a cada dois dados nos potes não entregues.
 
 Se houver **EMPATE**, aquele que entregou mais potes vence. Se ainda assim o empate persiste, os jogadores empatados dividem a vitória.
