@@ -1,0 +1,199 @@
+*{
+	margin:0;
+	padding:0;
+	border:0;
+	list-style:none;
+}
+
+body{
+	background:url(../imagens/background.png) repeat-x #182632;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size:10px;
+}
+
+#tudo{
+	background:url(../imagens/background2.png) no-repeat;
+	width:851px;
+	margin:0 auto;
+	overflow:hidden;
+	padding:35px 0 0 0;
+}
+/*#tudo{
+	background:url(../imagens/background_maior.png) no-repeat;
+	width:851px;
+	margin:0 auto;
+	overflow:auto;
+	padding:35px 75px 0 75px;
+}*/
+
+.flutuar{
+	float:left;
+}
+
+
+#ebep{
+	margin:0 0 0 5px;
+}
+/* == TOPO == */
+#menu{
+	float:left;
+	clear:right;
+	margin:0 0 0 261px;
+}
+#menu li{
+	float:left;
+	background:url(../imagens/menu.png) no-repeat;
+	width:120px;
+	text-align:center;
+	height:29px;
+	padding:9px 0 0 0;
+	margin:0 0 0 10px;
+}
+#menu li a{
+	color:#78a7cb;
+	text-decoration:none;
+	font-size:1.4em;
+	font-family:Tahoma, Geneva, sans-serif;
+	font-weight:bold;
+}
+
+
+/* == CONTEUDDO == */
+#cont{
+	background:url(../imagens/cont_topo.png) no-repeat;
+	padding:32px 0 0 0;
+	width:851px;
+	margin:60px 0 0 0;
+}
+#conteudo{
+	background:url(../imagens/cont_meio.png) repeat-y;
+	width:840px;
+	padding:0 0 0 11px;
+	overflow:auto;
+	float:none;
+	clear:both;
+}
+#esquerda{
+	width:602px;
+}
+h1{
+	background:url(../imagens/relogio.png) no-repeat 0 center;
+	padding:0 0 0 39px;
+	font-size:4em;
+	color:#304c63;
+	width:309px;
+	margin:0 auto 15px;
+}
+#dados{
+	margin:8px 0 0;
+	background:url(../imagens/linha.gif) no-repeat 5px top;
+	padding:15px 0 0 20px;
+	min-height:200px;
+}
+
+#dados span{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#707070;
+	font-size:1.8em;
+}
+
+
+
+#esquerda{
+	float:left;
+	clear:left;
+}
+#esquerda #dados strong{
+	font-size:18px;
+	color:#3e6687;
+}
+
+#entrada{
+	border:none;
+	background:url(../imagens/formulario_back.png) repeat-x;
+	width:582px;
+	min-height:120px;
+	margin:20px 0 0 0;
+	padding:15px 0 0 20px;
+}
+#entrada legend{
+	font-size:1.8em;
+	color:#304c63;
+	background:url(../imagens/legend_icone.png) no-repeat left center;
+	padding:0 0 0 22px;
+	margin:0 0 8px 0;
+}
+#entrada #nome{
+	border:1px solid #344f66;
+	background:#fff;
+	height:20px;
+	width:250px;
+}
+#entrada .botao{
+	background:url(../imagens/botao_back.png) no-repeat left center;
+	width:82px;
+	height:24px;
+	text-align:center;
+	padding:0 0 3px 0;
+	color:#fff;
+	font-size:1.4em;
+}
+
+
+#esquerda #f_tempo{
+	/*color:#751111;*/
+	color:#6e6e6e;
+	font-size:1.9em;
+	margin:25px 0 0;
+	font-weight:bold;
+	background:url(../imagens/estrela.png) no-repeat left center;
+	padding:0 0 0 20px;
+}
+#esquerda #f_tempo span{
+	/*color:#78a400;*/
+	color:#304c63;
+}
+#esquerda #f_tempo span span{
+	font-size:1.2;
+}
+
+
+#direita{
+	float:left;
+}
+#direita li{
+	background:url(../imagens/itens_lateral.png) repeat;
+	width:210px;
+	height:45px;
+	margin:20px 0 0 0;
+	padding:5px 0 0 20px;
+}
+#direita li a{
+	text-decoration:none;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:2.9em;
+	color:#fff;
+}
+#direita li a img{
+	position:relative;
+	top:5px;
+	margin:0 5px 0 0;
+}
+
+#rodape{
+	background:url(../imagens/cont_baixo.png) no-repeat;
+	width:850px;
+	padding:30px 0 0 0; 
+	color:#ececec;
+	font-size:1.1em;
+	float:none;
+	text-align:right;
+	clear:both;
+}
+#rodape a{
+	color:#ececec;
+	text-decoration:none;
+}
+#rodape a:hover{
+	text-decoration:underline;
+}

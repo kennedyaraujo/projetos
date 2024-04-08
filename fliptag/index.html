@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Exercício de Revisao</title>
+<script type="text/javascript" src="script/comandos.js"></script>
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+</head>
+<body>
+<div id="tudo">
+
+  <img src="imagens/fliptag.png" alt="webebep" title="webebep" id="ebep" class="flutuar" />
+    
+    <ul id="menu">
+    	<li><a href="#">homepage</a></li>
+        <li><a href="https://html.spec.whatwg.org/multipage/">tags</a></li>
+        <!-- <li><a href="http://htmldog.com/reference/cssproperties/">propriedades</a></li>     -->
+    </ul><!-- end #menu -->
+    
+    <div id="cont">
+    	<div id="conteudo">
+  <div id="esquerda">
+        	<h1>Tempo: <span id="tempo">00:00</span></h1>
+        	
+            <div id="dados">
+            	<strong>Acertos: </strong><span id="acertos">0</span><br/>
+                <span id="tags"><strong>Tags: </strong></span>
+                
+                
+        </div><!-- end #dados --> 
+            
+<form method="post" action="" onsubmit="javascript:return comparar();" id="entrada">
+                <fieldset>
+                    <legend>Digite o nome da Tag:</legend>
+                    <input type="text" value="" name="nome" id="nome" />
+                    <input type="submit" value="enviar" class="botao" />
+                </fieldset>
+                <div id="f_tempo"> </div>
+            </form>
+            
+                       
+            
+            
+         </div><!-- end #esquerda -->  
+         
+         
+         <ul id="direita">
+         	<li><a href="javascript:;" onclick="comecar();"><img src="imagens/play.png" title="inicar"/>Iniciar</a></li>
+            <li><a href="javascript:;" onclick="pausar();" ><img src="imagens/pause.png" title="pausar" />Pausar</a></li>
+            <li><a href="javascript:;" onclick="parar();"><img src="imagens/reiniciar.png" title="reinicar" />Reiniciar</a></li>
+         </ul><!-- end #direita -->
+        
+        </div> <!-- end #conteudo -->   
+    </div> <!-- end #cont -->
+    
+    <div id="rodape">
+    <p>produzido por: <a href="http://www.meadiciona.com/kennedy">Kennedy Ferreira</a> | Acesse:<a href="http://www.geracaobeta.com">geracaobeta.com</a></p>
+    </div>
+
+
+</div>
+</body>
+</html>
